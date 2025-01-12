@@ -6,4 +6,4 @@
 
 ## Бібліотеки, для програми...
 - MicroPython SSD1306 OLED driver, I2C by Adafruit
-- MicroPython MFRC522 I2C + soft_icc + MFRC522 I2C Config
+- MicroPython MFRC522 I2C + soft_icc + MFRC522 I2C Config by KeyeStudio
